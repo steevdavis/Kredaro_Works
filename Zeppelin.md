@@ -102,7 +102,8 @@ To create a new intrepreter.Click on the create button on the top lef corner.
  ![](https://zeppelin.apache.org/docs/0.8.0/assets/themes/zeppelin/img/docs-img/click_create_button.png)
  Fill Interpreter name field with whatever you want to use as the alias (e.g. mysql, mysql2, hive, redshift, and etc..). Please note that this alias will be used as %interpreter_name to call the interpreter in the paragraph. Here we are
  using 'mysql' as the intrepreter name. Then select 'jdbc' as an Interpreter group. 
- <img src="https://zeppelin.apache.org/docs/0.8.0/assets/themes/zeppelin/img/docs-img/select_name_and_group.png" align="left" height="300" width="266" >
+ <img src="https://zeppelin.apache.org/docs/0.8.0/assets/themes/zeppelin/img/docs-img/select_name_and_group.png" align="left" height="300" width="266" />
+<br/>
 
 
  The default driver of JDBC interpreter is set as PostgreSQL. It means Zeppelin includes PostgreSQL driver jar in itself. But If you want to connect other database like Mysql, you need to edit the property values. You can also use Credential for JDBC authentication. If default.user and default.password properties are deleted for database connection in the interpreter setting page, the JDBC interpreter will get the account information from Credential.

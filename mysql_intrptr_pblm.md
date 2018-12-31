@@ -1,6 +1,7 @@
 ## MySQL Intrepreter Problem And Solution:
 While using mysql intrepreter in Zeppelin, I felt two main problems which are listed below:
-Problem: 1) Queries with aggregates functions are not working:
+ 
+ Problem: 1) Queries with aggregates functions are not working:
 
 For obtaining particular visualization we need to use some aggregate functions such as sum(), avg(), concat()...etc. But while using these kind of functions, no results are obtained.
 Example, I didn't get any results for the following queries:-

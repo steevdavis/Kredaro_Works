@@ -12,7 +12,7 @@ In this cahapter what I going to do describe is about, how to create a simple ba
  For that set 'Distribution-Bar Chart' as Visualization type and set time range as last 100 ago which will give a result of all the data from last 100 years. 
   ![](images/interface2.png)
  Now we need to give the values in Query Section. Set 'Metrices' as Sum(population) and in 'Series' give the column name which you need to be in X axis. Here I am giving it as 'country_name'.
-  ![](images/interface3.png)
+  ![](images/interface4.png)
 After all this, just click the 'Run Query' menu.
  ![](images/query.png)
 And you will get the result as like this:

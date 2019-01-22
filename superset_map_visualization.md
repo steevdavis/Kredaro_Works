@@ -23,3 +23,7 @@ You can see the map with samll square plots.
 
 You can edit the map properies such as colour, plotting points etc. For that go to the `map` menu which is just above the 'Adavanced' options' and make desired changes.
 ![](images/map_prop.png)
+
+You can save the visualization as a chart. So that we can include them easily in Dashboards. For that click on the save menu. And add the chart name and details. And save it...!!!
+
+![](images/save_chart.png)

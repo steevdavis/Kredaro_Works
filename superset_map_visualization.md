@@ -14,8 +14,10 @@ After that go to the 'Query' section, then set latitude and longitude by selecti
 
 (Note: You sholud ensure that the all the columns are made as groupable and filterable at the begenning of table creation. If not go to tables menu and choose edit option put tick marks on groupable and filterable checkboxes of corresponding coulumns. Otherwise these coloumns will not be available at the desired fields in the workspace creating a chart)
 
-If you done all these, just click on the `Run Query` menu.![](images/query.png)
+If you done all these, just click on the `Run Query` menu. ![](images/query.png)
 You can see the map with samll square plots.
+
+
 
 ![](images/map.png)
 

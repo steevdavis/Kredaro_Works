@@ -1,4 +1,4 @@
-# Connecting Superset with Postgresql #2
+# Connecting Superset with Postgresql 
 
 ##
 In this cahapter I am describing, how to connect postgresql with superset.

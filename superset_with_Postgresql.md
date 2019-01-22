@@ -39,7 +39,7 @@ Click the Test Connection button to confirm things work end to end. Once Superse
    
 Moreover, you should also see the list of tables Superset can read from the schema you’re connected to, at the bottom of the page:
 
-   ![](images/confirmbox.png)
+   ![](images/bottom.png)
    
 If the connection looks good, save the configuration by clicking the Save button at the bottom of the page:
 

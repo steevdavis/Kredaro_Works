@@ -17,6 +17,7 @@ Go to the Sources menu, select the Databases option:
 ![](images/sources.png)
 
 On the resulting page, click on the green plus sign, near the top right:
+
 ![](images/add.png)
 
 You can configure a number of advanced options on this page, but for this walkthrough, you’ll only need to do two things:
@@ -26,8 +27,7 @@ You can configure a number of advanced options on this page, but for this walkth
  ![](images/database.png)
  
  
- 2. 
-    Provide the SQLAlchemy Connection URI and test the connection:
+ 2. Provide the SQLAlchemy Connection URI and test the connection:
     
   ![](images/testcon.png)
   

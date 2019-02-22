@@ -2,7 +2,7 @@
 	"trace_id": "1ca708ec05f714dac0f44c25329dec6b",
 	"timestamp": 1550658836091037,
 	"result": "HTTP 5xx",
-	"metadata": {
+	"metadata": 
 		"service": {
 			"name": "my-app-01"
 		},
